@@ -1,5 +1,4 @@
 # tax-calculator-api-communication
-# tax-calculator
 
 # Spring Boot Application
 
